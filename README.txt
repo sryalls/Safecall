@@ -17,7 +17,7 @@ The intended purpose of the charity was to administer a network of volunteers to
 
 The system is written in php, javascript and mysql. 
 
-index.php is not the start point of the code. It was intended to become thus but work started creating a branch (the admin_page section) initially to quickly prototype the interface of a main chunk of the functionality. At this point "admin_page/admin_page.php" should be considered the starting point. 
+index.php is not the start point of the interface. It was intended to become thus but work started creating a branch (the admin_page section) initially to quickly prototype the interface of a main chunk of the functionality. At this point "admin_page/admin_page.php" should be considered the starting point. 
 
 The system as is displays volunteers and calls which exist in the database and allows the editing of volunteer details. At this point admin_page.php needs to be refreshed to show changes in the main display table. Clicking on an entry in the main display table will bring up the more detailed editing form for the volunteer. 
 
