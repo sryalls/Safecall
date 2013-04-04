@@ -19,7 +19,7 @@ The system is written in php, javascript and mysql.
 
 index.php is not the start point of the code. It was intended to become thus but work started creating a branch (the admin_page section) initially to quickly prototype the interface of a main chunk of the functionality. At this point "admin_page/admin_page.php" should be considered the starting point. 
 
-The system as is displays volunteers and calls which exist in the database and allows the editing of volunteer details. At this point admin_page.php needs to be refreshed to show changes in the main display table. Clicking on an entry in the main display table. will brinng up the more detailed editing form for the volunteer. 
+The system as is displays volunteers and calls which exist in the database and allows the editing of volunteer details. At this point admin_page.php needs to be refreshed to show changes in the main display table. Clicking on an entry in the main display table will bring up the more detailed editing form for the volunteer. 
 
 
 
@@ -27,7 +27,7 @@ The system as is displays volunteers and calls which exist in the database and a
 
 In the documentation folder are the results of the analysis and requirements gathering. This process took place with the cooperation of prospective trustees of the proto-charity.
 
-The user journeys PDF contains workflows for the key functionality.
-The site map draft 1 is a proposed layouut draft of the application.
-The process workflow contains process workflows of the key functionality
+The user journeys PDF contains user centric work-flows for the key functionality.
+The site map draft 1 is a proposed layout draft of the application.
+The process work flow contains swim-lane diagrams of the key functionality
 The DB Schema is a proposed database structure. 
