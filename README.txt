@@ -25,7 +25,7 @@ The system as is displays volunteers and calls which exist in the database and a
 
 3.Documentation
 
-In the documentation folder are the results of the analysis and requirements gathering. 
+In the documentation folder are the results of the analysis and requirements gathering. This process took place with the cooperation of prospective trustees of the proto-charity.
 
 The user journeys PDF contains workflows for the key functionality.
 The site map draft 1 is a proposed layouut draft of the application.
