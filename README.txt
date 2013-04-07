@@ -3,7 +3,7 @@ Contents
 1. Overview
 2. Code
 3. Documentation
-
+4. Database
 
 1.Overview
 
@@ -30,4 +30,10 @@ In the documentation folder are the results of the analysis and requirements gat
 The user journeys PDF contains user centric work-flows for the key functionality.
 The site map draft 1 is a proposed layout draft of the application.
 The process work flow contains swim-lane diagrams of the key functionality
-The DB Schema is a proposed database structure. 
+The DB Schema is a proposed database structure.
+
+4.Database
+
+A dump of the database can be found in the file safecall_dev.sql. 
+
+DB configuration occurs in the config.php file.
